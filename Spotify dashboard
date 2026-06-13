@@ -1,0 +1,61 @@
+🎵 Spotify Analytics Dashboard — Power BI
+
+A fully interactive Spotify-themed Power BI Dashboard analyzing music trends, artist popularity, and song metrics from the Global Top 50 charts. Built with AI-assisted DAX measures using Power BI's DAX Query View.
+
+📊 Dashboard Overview
+The dashboard is divided into 4 interactive pages:
+
+🏠 Home — Landing page with navigation
+📈 Overview — High-level KPIs and trend charts
+🎤 Artists — Artist-level breakdown and rankings
+🎵 Songs — Song-level analysis and metrics
+
+📌 Key Metrics Tracked
+
+MetricDescription🎵
+Distinct SongsTotal 
+unique songs in the dataset👤 
+Count of ArtistsUnique artists featured⏱️ 
+Avg DurationAverage song length (3.38 mins)🔥
+Avg PopularityAverage popularity score (86)💿 
+Songs by Album TypeSingles vs. Albums distribution📅
+Songs by Year2023 vs. 2024 song breakdown🎤 
+Explicit vs. Non-ExplicitContent type distribution (298 vs. 239)📈 
+Avg Popularity by MonthMonthly & Quarterly popularity trends📆 
+Distinct Songs by MonthMonthly song count (Jan–Nov)
+
+
+🚀 What Makes This Special
+
+✅ AI-Assisted DAX — Used AI tools + DAX Query View to generate 30+ measures in a single script
+✅ Spotify-Inspired UI — Dark background, green accents, artist album art
+✅ Dynamic Visuals — Artist images, album covers, interactive bar & donut charts
+✅ Month/Quarter Toggle — Switch between monthly and quarterly popularity views
+✅ Multi-Page Navigation — Smooth navigation across Home, Overview, Artists & Songs
+
+
+
+🎨 UI Design
+
+The dashboard mirrors the Spotify experience:
+
+🖤 Dark green background
+💚 Spotify green accent color
+🎵 Spotify logo branding
+🖼️ Artist visuals with album art (Taylor Swift, Beyoncé, Charli XCX, and more)
+
+
+
+🛠️ Tools & Technologies
+
+ToolUsagePower BI Desktop
+Dashboard developmentDAX (Query View)
+30+ measures created via scriptAI
+ToolsAssisted 
+DAX measure generation
+Spotify DatasetGlobal 
+Top 50 chart data
+
+🎤 Featured Artists
+
+Taylor Swift · Beyoncé · Charli XCX · Peggy Gou · Zach Bryan · KAROL G & Feid & DFZM · Tate McRae · Jung Kook & Jack Harlow · Rema · Sevdaliza · and more!
